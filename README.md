@@ -1,1 +1,2 @@
-# Projeto construido duranteo curso de Front End em React na plataforma Ada Tech
+# myshop - 
+Projeto construido durante o curso de Front End em React na plataforma Ada Tech
